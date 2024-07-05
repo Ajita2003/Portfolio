@@ -1,6 +1,6 @@
-# Colin-Portfolio
-Colin's Portfolio Website 
+# Ajita Fairen J - Portfolio
+Ajita Fairen J's Portfolio Website 
 
-Author : Colin Rolance D
-Mail : colinrolance2001@gmail.com
+Developer : Ajita Fairen J
+Mail : ajitafairen@gmail.com
 Tech Stack : HTML, CSS, JavaScript
